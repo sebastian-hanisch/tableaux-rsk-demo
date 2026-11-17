@@ -1,0 +1,18 @@
+{
+ "beschreibung": "Vollständige Zugfolgen von t Stapeln in Serie bei n Containern (Stapelsimulation) und die Zahl der verschiedenen Ausgaben.",
+ "erzeugt_von": "tools/trk_make_zuege.py",
+ "eintraege": [
+  {
+   "t": 2,
+   "n": 7,
+   "zugfolgen": 1385670,
+   "ausgaben": 5018
+  },
+  {
+   "t": 3,
+   "n": 5,
+   "zugfolgen": 1662804,
+   "ausgaben": 120
+  }
+ ]
+}

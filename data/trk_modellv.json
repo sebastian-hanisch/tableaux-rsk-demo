@@ -1,0 +1,239 @@
+{
+ "beschreibung": "Ausgedachtes Modell V (Verweilzeit D, in Ankunftsabständen), n = 10: mittlere erste Zeile, mittlere Zeilenzahl, häufigste Form, Zahl der gesehenen Formen je 20 000 Folgen; D = null heißt D → ∞ (gleichverteilt, Modell U).",
+ "erzeugt_von": "tools/trk_make_modellv.py",
+ "n": 10,
+ "anzahl": 20000,
+ "seeds": [
+  101,
+  20261117
+ ],
+ "zeilen": [
+  {
+   "d": 0.5,
+   "seeds": {
+    "101": {
+     "summe_erste_zeile": 187756,
+     "summe_zeilenzahl": 29911,
+     "mittel_erste_zeile": 9.3878,
+     "mittel_zeilenzahl": 1.4955,
+     "top": [
+      10
+     ],
+     "top_anzahl": 10171,
+     "top_anteil": 0.50855,
+     "formen": 8
+    },
+    "20261117": {
+     "summe_erste_zeile": 187939,
+     "summe_zeilenzahl": 29732,
+     "mittel_erste_zeile": 9.397,
+     "mittel_zeilenzahl": 1.4866,
+     "top": [
+      10
+     ],
+     "top_anzahl": 10345,
+     "top_anteil": 0.51725,
+     "formen": 8
+    }
+   }
+  },
+  {
+   "d": 1,
+   "seeds": {
+    "101": {
+     "summe_erste_zeile": 166635,
+     "summe_zeilenzahl": 39639,
+     "mittel_erste_zeile": 8.3317,
+     "mittel_zeilenzahl": 1.982,
+     "top": [
+      9,
+      1
+     ],
+     "top_anzahl": 6795,
+     "top_anteil": 0.33975,
+     "formen": 17
+    },
+    "20261117": {
+     "summe_erste_zeile": 166585,
+     "summe_zeilenzahl": 39675,
+     "mittel_erste_zeile": 8.3293,
+     "mittel_zeilenzahl": 1.9837,
+     "top": [
+      9,
+      1
+     ],
+     "top_anzahl": 6730,
+     "top_anteil": 0.3365,
+     "formen": 18
+    }
+   }
+  },
+  {
+   "d": 2,
+   "seeds": {
+    "101": {
+     "summe_erste_zeile": 142099,
+     "summe_zeilenzahl": 49314,
+     "mittel_erste_zeile": 7.1049,
+     "mittel_zeilenzahl": 2.4657,
+     "top": [
+      8,
+      2
+     ],
+     "top_anzahl": 4316,
+     "top_anteil": 0.2158,
+     "formen": 26
+    },
+    "20261117": {
+     "summe_erste_zeile": 141954,
+     "summe_zeilenzahl": 49208,
+     "mittel_erste_zeile": 7.0977,
+     "mittel_zeilenzahl": 2.4604,
+     "top": [
+      8,
+      2
+     ],
+     "top_anzahl": 4277,
+     "top_anteil": 0.21385,
+     "formen": 25
+    }
+   }
+  },
+  {
+   "d": 4,
+   "seeds": {
+    "101": {
+     "summe_erste_zeile": 121039,
+     "summe_zeilenzahl": 60480,
+     "mittel_erste_zeile": 6.0519,
+     "mittel_zeilenzahl": 3.024,
+     "top": [
+      6,
+      3,
+      1
+     ],
+     "top_anzahl": 4324,
+     "top_anteil": 0.2162,
+     "formen": 33
+    },
+    "20261117": {
+     "summe_erste_zeile": 121196,
+     "summe_zeilenzahl": 60464,
+     "mittel_erste_zeile": 6.0598,
+     "mittel_zeilenzahl": 3.0232,
+     "top": [
+      6,
+      3,
+      1
+     ],
+     "top_anzahl": 4215,
+     "top_anteil": 0.21075,
+     "formen": 34
+    }
+   }
+  },
+  {
+   "d": 8,
+   "seeds": {
+    "101": {
+     "summe_erste_zeile": 106274,
+     "summe_zeilenzahl": 70327,
+     "mittel_erste_zeile": 5.3137,
+     "mittel_zeilenzahl": 3.5164,
+     "top": [
+      6,
+      3,
+      1
+     ],
+     "top_anzahl": 2959,
+     "top_anteil": 0.14795,
+     "formen": 36
+    },
+    "20261117": {
+     "summe_erste_zeile": 106036,
+     "summe_zeilenzahl": 70435,
+     "mittel_erste_zeile": 5.3018,
+     "mittel_zeilenzahl": 3.5217,
+     "top": [
+      6,
+      3,
+      1
+     ],
+     "top_anzahl": 2831,
+     "top_anteil": 0.14155,
+     "formen": 35
+    }
+   }
+  },
+  {
+   "d": 16,
+   "seeds": {
+    "101": {
+     "summe_erste_zeile": 97148,
+     "summe_zeilenzahl": 77178,
+     "mittel_erste_zeile": 4.8574,
+     "mittel_zeilenzahl": 3.8589,
+     "top": [
+      4,
+      3,
+      2,
+      1
+     ],
+     "top_anzahl": 2618,
+     "top_anteil": 0.1309,
+     "formen": 37
+    },
+    "20261117": {
+     "summe_erste_zeile": 96976,
+     "summe_zeilenzahl": 77244,
+     "mittel_erste_zeile": 4.8488,
+     "mittel_zeilenzahl": 3.8622,
+     "top": [
+      4,
+      3,
+      2,
+      1
+     ],
+     "top_anzahl": 2546,
+     "top_anteil": 0.1273,
+     "formen": 38
+    }
+   }
+  },
+  {
+   "d": null,
+   "seeds": {
+    "101": {
+     "summe_erste_zeile": 86603,
+     "summe_zeilenzahl": 86740,
+     "mittel_erste_zeile": 4.3301,
+     "mittel_zeilenzahl": 4.337,
+     "top": [
+      4,
+      3,
+      2,
+      1
+     ],
+     "top_anzahl": 3160,
+     "top_anteil": 0.158,
+     "formen": 39
+    },
+    "20261117": {
+     "summe_erste_zeile": 86726,
+     "summe_zeilenzahl": 86716,
+     "mittel_erste_zeile": 4.3363,
+     "mittel_zeilenzahl": 4.3358,
+     "top": [
+      4,
+      3,
+      2,
+      1
+     ],
+     "top_anzahl": 3223,
+     "top_anteil": 0.16115,
+     "formen": 39
+    }
+   }
+  }
+ ]
+}
